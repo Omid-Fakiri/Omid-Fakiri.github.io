@@ -32,6 +32,8 @@
 
 .header {
 	color: white;
+	border-style: solid;
+	border-color: grey;
 }
 
 .table {
@@ -40,10 +42,17 @@
 
 .aside {
 	color: white;
+	background-color: black;
+	border-style: solid;
+	border-color: grey;
+	padding: 20px;
 }
 
 .footer {
 	color: white;
+	background-color: black;
+	border-style: solid;
+	border-color: grey;
 }
 
 .footer_1 {
