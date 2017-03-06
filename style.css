@@ -1,0 +1,19 @@
+body {
+	color: white;
+}
+
+#main_background {
+	background-image: url("images/bkgd/main_bkgd.jpg");
+	background-size: cover;
+	background-position: 15%;
+	background-repeat: no-repeat;
+}
+
+#the_terminator {
+	background-image: url("images/bkgd/The_Terminator.jpg");
+	background-size: 100% 100%;
+}
+
+.image_1 {
+	opacity: 0;
+}
