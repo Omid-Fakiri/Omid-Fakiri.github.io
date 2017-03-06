@@ -30,18 +30,22 @@
 	background-size: 100% 100%;
 }
 
-table {
+table.center {
+	margin-left: auto;
+	margin-right: auto;
 	margin-top: 2%;
 }
 
-.header {
+.main_header {
 	color: white;
 	border-style: solid;
 	border-color: grey;
+	text-align: center;
 }
 
 .table {
 	color: white;
+	text-align: center;
 }
 
 .aside {
@@ -53,6 +57,7 @@ table {
 }
 
 .footer {
+	text-align: center;
 	color: white;
 	background-color: black;
 	border-style: solid;
@@ -63,30 +68,35 @@ table {
 	color: white;
 	background-color: black;
 	position: relative;
+	text-align: center;
 }
 
 .footer_2 {
 	color: white;
 	background-color: black;
 	position: relative;
+	text-align: center;
 }
 
 .footer_3 {
 	color: white;
 	background-color: black;
 	position: relative;
+	text-align: center;
 }
 
 .footer_4 {
 	color: white;
 	background-color: black;
 	position: relative;
+	text-align: center;
 }
 
 .footer_5 {
 	color: white;
 	background-color: black;
 	position: relative;
+	text-align: center;
 }
 
 .image {
