@@ -1,7 +1,3 @@
-body {
-	color: white;
-}
-
 #main_background {
 	background-image: url("images/bkgd/main_bkgd.jpg");
 	background-size: cover;
@@ -14,6 +10,97 @@ body {
 	background-size: 100% 100%;
 }
 
-.image_1 {
+#terminator_2 {
+	background-image: url("images/bkgd/Terminator_2.jpg");
+	background-size: 100% 100%;
+}
+
+#terminator_3 {
+	background-image: url("images/bkgd/Terminator_3.jpg");
+	background-size: 100% 100%;
+}
+
+#terminator_salvation {
+	background-image: url("images/bkgd/Terminator_Salvation.jpg");
+	background-size: 100% 100%;
+}
+
+#terminator_genisys {
+	background-image: url("images/bkgd/Terminator_Genisys.jpg");
+	background-size: 100% 100%;
+}
+
+.header {
+	color: white;
+}
+
+.table {
+	color: white;
+}
+
+.aside {
+	color: white;
+}
+
+.footer {
+	color: white;
+}
+
+.footer_1 {
+	color: white;
+	background-color: black;
+	position: relative;
+}
+
+.footer_2 {
+	color: white;
+	background-color: black;
+	position: relative;
+}
+
+.footer_3 {
+	color: white;
+	background-color: black;
+	position: relative;
+}
+
+.footer_4 {
+	color: white;
+	background-color: black;
+	position: relative;
+}
+
+.footer_5 {
+	color: white;
+	background-color: black;
+	position: relative;
+}
+
+.image {
 	opacity: 0;
+}
+
+.summary_1 {
+	color: white;
+	background-color: black;
+}
+
+.summary_2 {
+	color: white;
+	background-color: black;
+}
+
+.summary_3 {
+	color: white;
+	background-color: black;
+}
+
+.summary_4 {
+	color: white;
+	background-color: black;
+}
+
+.summary_5 {
+	color: white;
+	background-color: black;
 }
